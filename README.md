@@ -1,4 +1,4 @@
-# code_BTRD
+# code_METNN
 ## Description
 - Matlab code for the paper: \"Revisiting High-Order Tensor Singular Value Decomposition From Basic Element Perspective\",  in IEEE Transactions on Signal Processing, vol. 72, pp. 4589-4603, 2024. 
 
